@@ -1,6 +1,8 @@
+# COE 428 Lab 2
 Christopher Fernandes
-COE 428 Lab 2
+
 Submitted February 1st 2024
+
 Worked individually
 
 Code compiled and worked correctly without issue.
